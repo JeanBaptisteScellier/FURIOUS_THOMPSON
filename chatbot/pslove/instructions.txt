@@ -1,0 +1,26 @@
+To test everything:
+
+1. connect to facebook 
+adress: 
+loveps42@yahoo.com
+password:
+hackathonparis
+
+2. start a conversation with the page: Ps love hackathon paris
+(it's shared on wall)
+
+3. enjoy
+
+I'll let the js code run on my personal server for 2 weeks,
+it's difficult to install everything.
+So you just have to try it with facebook account
+(facebook want https, so you'd have to deal with ngrok)
+
+To install everything
+
+1. git clone the repo
+2. install ngrok to have https
+3. npm i
+4. node index.js or nodemon
+5. go to developers.facebook.com
+6. click webhook then edit subscription and add the https adress from ngrok

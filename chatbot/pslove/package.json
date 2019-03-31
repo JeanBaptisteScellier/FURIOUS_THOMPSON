@@ -1,0 +1,16 @@
+{
+  "name": "pslove",
+  "version": "1.0.0",
+  "description": "Chatbot for pslove. Take the predictions (JSON) from our ML model and send recommendations and help through messenger. We suppose that the user comes from the app, clicked a link so the messenger app opened.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jabjab42",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "moment": "^2.24.0"
+  }
+}

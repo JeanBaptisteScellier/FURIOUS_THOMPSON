@@ -1,0 +1,15 @@
+{
+    "user_id": 314,
+    "next_cycle": "2019-04-29",
+    "symptoms_prediction": {
+        "cramp": "75",
+        "nausea": "80"
+    },
+    "duration": "6",
+    "symptoms_prediction_date": {
+        "date": "2019-04-14",
+        "day" : "04",
+        "month": "April"
+    }
+
+}
