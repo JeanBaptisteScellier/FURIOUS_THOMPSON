@@ -1,0 +1,8 @@
+Symptoms of periods prediction
+
+Instructions
+
+Just download period.ipynb and open it with jupyter notebook. Data must be in the same directory.
+Libraries used are common one: pandas, seaborn and sklearn
+
+A model is saved as model1.joblib, it must be in the same directory to load it
